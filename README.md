@@ -15,10 +15,10 @@
 ![image](https://github.com/nmk1406/Tourism-Data-Warehouse/blob/main/images/dwh.png)
 ## Phân tích thống kê dựa trên data warehouse
 ![image](https://github.com/nmk1406/Tourism-Data-Warehouse/blob/main/images/tour%20theo%20nguon%20du%20lich.png)
-Biểu đồ thống kê số tour theo nguồn du lịch
+- Biểu đồ thống kê số tour theo nguồn du lịch
 ![image](https://github.com/nmk1406/Tourism-Data-Warehouse/blob/main/images/doanh%20thu%20theo%20nguon%20du%20lich.png)
-Biểu đồ thống kê doanh thu theo nguồn du lịch
+- Biểu đồ thống kê doanh thu theo nguồn du lịch
 ![image](https://github.com/nmk1406/Tourism-Data-Warehouse/blob/main/images/so%20luong%20dang%20ky%20theo%20vung.png)
-Biểu đồ thống kê số lượng đăng ký theo vùng
+- Biểu đồ thống kê số lượng đăng ký theo vùng
 ![image](https://github.com/nmk1406/Tourism-Data-Warehouse/blob/main/images/luong%20khach%20theo%20quoc%20tich.png)
-Biểu đồ thống kê lượng khách theo quốc tịch
+- Biểu đồ thống kê lượng khách theo quốc tịch
